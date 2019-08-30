@@ -1,0 +1,35 @@
+/*Studio Pro*/
+@font-face {
+    font-family: 'StudioPro';
+    src: url(https://jesh-max.github.io/fonts/Ttd-StudioPro-Regular-Web/StudioPro-Regular.eot);
+    src: url(https://jesh-max.github.io/fonts/Ttd-StudioPro-Regular-Web/StudioPro-Regular.eot?#iefix) format("embedded-opentype"), url(assets/webfonts/studiopro/studiopro-regular.woff2) format("woff2"), url(assets/webfonts/studiopro/studiopro-regular.woff) format("woff");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'StudioPro';
+    src: url(https://jesh-max.github.io/fonts/Ttd-StudioPro-SemiBold-Web/StudioPro-SemiBold.eot);
+    src: url(https://jesh-max.github.io/fonts/Ttd-StudioPro-SemiBold-Web/StudioPro-SemiBold.eot?#iefix) format("embedded-opentype"), url(assets/webfonts/studiopro/studiopro-semibold.woff2) format("woff2"), url(assets/webfonts/studiopro/studiopro-semibold.woff) format("woff");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'StudioPro';
+    src: url(https://jesh-max.github.io/fonts/Ttd-StudioPro-Bold-Web/StudioPro-Bold.eot);
+    src: url(https://jesh-max.github.io/fonts/Ttd-StudioPro-Bold-Web/StudioPro-Bold.eot?#iefix) format("embedded-opentype"), url(assets/webfonts/studiopro/studiopro-bold.woff2) format("woff2"), url(assets/webfonts/studiopro/studiopro-bold.woff) format("woff");
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
+/*font: iA Writer*/
+@font-face {
+    font-family: 'iAWriter';
+    src: url("https://jesh-max.github.io/fonts/ia-writer-duospace/iAWriterDuospace-Regular.otf") format("opentype");;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
