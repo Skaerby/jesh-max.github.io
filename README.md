@@ -1,8 +1,8 @@
-# jesh-max
+# Temporary CDN
 
-This is a CDN jesh hacked together, it should be replaced in a week by a core platform CDN.
+This is a CDN jesh hacked together, it will be replaced a core platform maintained CDN.
 
-# how to use
+## Cytora webfonts
 
 Add this to the `<head>`
 
